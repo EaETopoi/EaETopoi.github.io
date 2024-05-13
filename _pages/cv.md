@@ -9,45 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a brief version of my CV. For the long version please visit <a href="/files/EaECVLong.pdf" class="image fit">PDF.</a>.
+Below is a brief version of my CV. For the long version of my CV can be accessed <a href="/files/EaECVLong.pdf" class="image fit">here</a>.
 
 Education
 ======
-* Ph.D in Mathematics, University of Illinois Urbana-Champaign, 2029 (expected)
-* BSc in Mathematics, Honours, University of Calgary, 2024
-* BSc in Physics, Honours, University of Calgary, 2024
+* **University of Illinois Urbana-Champaign**, Urbana, IL, USA
+  * Ph.D in Mathematics, University of Illinois Urbana-Champaign, 2029 (expected)
+* **University of Calgary**, Calgary, AB, Canada
+  * BSc in Mathematics, first-class honours with distinction, June 2024
+    * Thesis: "<a href="/files/Math518_FinalReport_EEaT.pdf" class="image fit">A Concrete Construction of Polynomial Functors in Chain Complexes</a>" advised by <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152919" rel="noopener" target="_blank">Kristine Bauer</a>
+  * BSc in Physics, first-class honours with distinction, June 2024
+    * Thesis: "<a href="/files/Phys598_FinalReport_EEaThompson.pdf" class="image fit">Resource Theories for Random Discrete Dynamical Systems</a>" advised by <a href="https://contacts.ucalgary.ca/info/math/profiles/1-9063259" rel="noopener" target="_blank">Carlo Maria Scandolo</a>
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Undergraduate Research Assistant
+  * University of Calgary
+  * Duties: Investigated a 2D-limited data edge detection problem.
+  * Supervisor: <a href="https://sites.google.com/view/traceybalehowsky/" rel="noopener" target="_blank">Tracey Balehowsky</a>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Undergraduate Research Assistant
+  * University of Calgary
+  * Duties: Constructed algorithms for computing multiplicity matrices of standard representations.
+  * Supervisor: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152934" rel="noopener" target="_blank">Clifton Cunningham</a>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
@@ -55,12 +47,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of the Physics and Astronomy Mentor (PAM) Talks, University of Calgary (Jan 2022 -- Present)
+* PHAS EDI committee member (Oct 2021 -- June 2024)
