@@ -18,7 +18,7 @@ Hi! My name is E or Ea (pronounced like ey-ah), they/them, and I'm a trans mathe
 - Shape analysis (in relation to biological imaging)
 A little about me: I'm an ex-national gymnast and ex-children's gymnastics coach; I'm passionate about equitable and accessible math and science outreach; I'm passionate about anti-racism, disability justice, and intersectional feminism as a whole, especially as it pertains to STEM; and I have an incredibly cute dog ([Fig. 1](Ace-fig)) named Ace!
 
-```{figure} ../images/Ace.jpg
+```{figure} images/Ace.jpg
 ---
 height: 150px
 name: Ace-fig
