@@ -57,3 +57,5 @@ Service and leadership
 ======
 * Member of the Physics and Astronomy Mentor (PAM) Talks, University of Calgary (Jan 2022 -- Present)
 * PHAS EDI committee member (Oct 2021 -- June 2024)
+* VP Academic of Physics and Astronomy Students' Association (PASA) at the University of Calgary (May 2022 -- Apr 2024)
+* PASA Peer Mentor (Sept 2021 -- Apr 2024)
