@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a brief version of my CV. For the long version of my CV can be accessed <a href="/files/EaECVLong.pdf" class="image fit">here</a>.
+Below is a brief version of my CV. The long version of my CV can be accessed <a href="/files/EaECVLong.pdf" class="image fit">here</a>.
 
 Education
 ======
@@ -41,11 +41,11 @@ Research experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
