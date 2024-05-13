@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Below is a brief version of my CV. For the long version please visit <a href="/files/EaECVLong.pdf" class="image fit">PDF.</a>.
+
 Education
 ======
 * Ph.D in Mathematics, University of Illinois Urbana-Champaign, 2029 (expected)
