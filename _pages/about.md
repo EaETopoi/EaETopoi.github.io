@@ -9,11 +9,10 @@ redirect_from:
 
 Hi! My name is E or Ea (pronounced like ey-ah), they/them/non-gendered, and I'm a trans mathematics student starting a PhD at UIUC in the fall.  My current research interests are varied but lie among the following, and connections therein: <img align="right" src="images/Ace.jpg" alt="Ace!" style="width:200px; height:auto; border: solid 1px #CCC" hspace="20px"/>
 
-- (higher) Category Theory
+- (higher) Category Theory and its applications
 - Homotopy theory
 - Topos Theory
 - Algebraic geometry
-- Inverse problems
 - Riemannian geometry
 - Medical imaging
 - Shape analysis (in relation to biological imaging)

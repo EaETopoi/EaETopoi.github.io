@@ -10,9 +10,10 @@ author_profile: true
 
 ### Teaching Assistant Experience
 
-| Institution                   | Term        |  Course                                                      |
-| --------------------------    | ---------   | ------------------------------------------------------------ |
-| [University of Calgary](#)    | Fall/2023   | Calculus for Engineers and Scientists                        |
+| Institution                                     | Term        |  Course                                                      |
+| --------------------------                      | ---------   | ------------------------------------------------------------ |
+| [University of Calgary](#)                      | Fall/2023   | Calculus for Engineers and Scientists                        |
+| [University of Illinois Urbana-Champaign](#)    | Fall/2024   | Calculus                                   |
 
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
