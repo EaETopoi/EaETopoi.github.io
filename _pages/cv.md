@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a brief version of my CV. The long version of my CV can be accessed <a href="/files/EaECVLong.pdf" class="image fit">here</a>.
+Below is a brief version of my CV. The long version of my CV can be accessed <a href="/files/EaECVShort.pdf" class="image fit">here</a>.
 
 Education
 ======
@@ -56,6 +56,8 @@ Research experience
 Service and leadership
 ======
 * Member of the Physics and Astronomy Mentor (PAM) Talks, University of Calgary (Jan 2022 -- Present)
+  * <a href="https://thepamtalks.podbean.com/" rel="noopener" target="_blank">Pam Talks PodBean link</a>
 * PHAS EDI committee member (Oct 2021 -- June 2024)
+* Girls Excel in Math Summer Camp volunteer at the University of Calgary (Summer 2023)
 * VP Academic of Physics and Astronomy Students' Association (PASA) at the University of Calgary (May 2022 -- Apr 2024)
 * PASA Peer Mentor (Sept 2021 -- Apr 2024)
