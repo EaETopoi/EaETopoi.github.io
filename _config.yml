@@ -21,7 +21,7 @@ repository               : "EaETopoi/EaETopoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AcademicProfile.jpeg"
+  avatar           : "UIUCProfile.jpeg"
   name             : "Ea E"
   pronouns         : "they/them/non-gendered" # example: "she/her"  
   bio              : "PhD Student at UIUC"
