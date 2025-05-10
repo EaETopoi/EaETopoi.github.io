@@ -9,55 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a brief version of my CV. The long version of my CV can be accessed <a href="/files/EaECVShort.pdf" class="image fit">here</a>.
-
 Education
 ======
-* **University of Illinois Urbana-Champaign**, Urbana, IL, USA
-  * Ph.D in Mathematics, University of Illinois Urbana-Champaign, 2029 (expected)
-* **University of Calgary**, Calgary, AB, Canada
-  * BSc in Mathematics, first-class honours with distinction, June 2024
-    * Thesis: "<a href="/files/Math518_FinalReport_EEaT.pdf" class="image fit">A Concrete Construction of Polynomial Functors in Chain Complexes</a>" advised by <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152919" rel="noopener" target="_blank">Kristine Bauer</a>
-  * BSc in Physics, first-class honours with distinction, June 2024
-    * Thesis: "<a href="/files/Phys598_FinalReport_EEaThompson.pdf" class="image fit">Resource Theories for Random Discrete Dynamical Systems</a>" advised by <a href="https://contacts.ucalgary.ca/info/math/profiles/1-9063259" rel="noopener" target="_blank">Carlo Maria Scandolo</a>
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-Research experience
+Work experience
 ======
-* Summer 2023: Undergraduate Research Assistant
-  * University of Calgary
-  * Duties: Investigated a 2D-limited data edge detection problem.
-  * Supervisor: <a href="https://sites.google.com/view/traceybalehowsky/" rel="noopener" target="_blank">Tracey Balehowsky</a>
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-* Summer 2022: Undergraduate Research Assistant
-  * University of Calgary
-  * Duties: Constructed algorithms for computing multiplicity matrices of standard representations.
-  * Supervisor: <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152934" rel="noopener" target="_blank">Clifton Cunningham</a>
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
-<!-- Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Member of the Physics and Astronomy Mentor (PAM) Talks, University of Calgary (Jan 2022 -- Present)
-  * <a href="https://thepamtalks.podbean.com/" rel="noopener" target="_blank">Pam Talks PodBean link</a>
-* PHAS EDI committee member (Oct 2021 -- June 2024)
-* Girls Excel in Math Summer Camp volunteer at the University of Calgary (Summer 2023)
-* VP Academic of Physics and Astronomy Students' Association (PASA) at the University of Calgary (May 2022 -- Apr 2024)
-* PASA Peer Mentor (Sept 2021 -- Apr 2024)
+* Currently signed in to 43 different slack teams
