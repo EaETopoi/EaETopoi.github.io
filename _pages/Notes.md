@@ -18,3 +18,7 @@ Below are a collection of mathematical notes I have written for a variety of pur
 * <a href="/files/Math617Paper_E_Ea.pdf" class="image fit">Abstract Algebras of Observables and their Concrete
 Models: The Gelfand-Naimark-Segal Construction</a>, a paper on the Gelfand-Naimark-Segal Construction and its relation to the operator perspective for quantum mechanics, completed for the final project of Math 617: Functional Analysis at the University of Calgary.
 * <a href="/files/AnalysisIIPaper.pdf" class="image fit">The Projective Structure of Quantum Mechanics</a>, a paper on the structure of projective spaces and their appearance in certain geometric models of quantum mechanics, completed for the final project of Math 445: Analysis II at the University of Calgary.
+
+## Reading Notes
+
+* <a href="eaetopoi.github.io/markdown.html">Reading Notes</a> 
