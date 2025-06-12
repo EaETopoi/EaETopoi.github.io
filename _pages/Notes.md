@@ -21,4 +21,4 @@ Models: The Gelfand-Naimark-Segal Construction</a>, a paper on the Gelfand-Naima
 
 ## Reading Notes
 
-* <a href="eaetopoi.github.io/PublishedReadingNotes.html">Reading Notes</a> 
+* <a href="eaetopoi.github.io/readingnotes.html">Reading Notes</a> 

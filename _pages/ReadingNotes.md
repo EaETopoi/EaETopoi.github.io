@@ -1,10 +1,10 @@
 ---
 permalink: /non-menu-page/
-title: "Non-Menu-Note"
+title: "Reading Notes"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/readingnotes/"
+  - "/readingnotes.html"
 ---
 
 
