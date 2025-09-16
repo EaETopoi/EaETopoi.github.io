@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is E or Ea (pronounced like A-ah), they/it/xe, and I'm a trans mathematics student in the first year of my PhD at the University of Illinois Urbana-Champaign.  My current research interests are varied but lie among the following, and connections therein: <img align="right" src="images/Ace.jpg" alt="Ace!" style="width:200px; height:auto; border: solid 1px #CCC" hspace="20px"/>
+Hi! My name is E or Ea (pronounced like A-ah), they/it/she, and I'm a trans mathematics student in the second year of my PhD at the University of Illinois Urbana-Champaign.  My current research interests are varied but lie among the following, and connections therein: <img align="right" src="images/Ace.jpg" alt="Ace!" style="width:200px; height:auto; border: solid 1px #CCC" hspace="20px"/>
 
 - (higher) Category Theory and its applications
+- Virtual double category theory
 - Homotopy theory and Higher Algebra
 - Topos Theory
 - Medical imaging

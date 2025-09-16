@@ -23,6 +23,11 @@ Education
 
 Research experience
 ======
+* Summer 2025: Summer Research Associate
+  * Topos Institute
+  * Duties: Worked with Sophie Libkind on a project the dynamics of attractor lattices in terms of double categories. I also worked with Kevin Carlson on a project on exponentiability of virtual double categories.
+  * Supervisors: <a href="https://slibkind.github.io/" rel="noopener" target="_blank">Sophie Libkind</a> and <a href="https://topos.institute/people/kevin-carlson/" rel="noopener" target="_blank">Kevin Carlson</a>
+
 * Summer 2023: Undergraduate Research Assistant
   * University of Calgary
   * Duties: Investigated a 2D-limited data edge detection problem.
@@ -55,6 +60,8 @@ Research experience
   
 Service and leadership
 ======
+* Presenter in the UIUC Math Circles Program (Sept 2025 -- Present)
+  * <a href="https://math.illinois.edu/academics/graduate-program/awm-graduate-student-chapter-illinois/uiuc-math-circle" rel="noopener" target="_blank">UIUC Math Circles</a>
 * Member of the Physics and Astronomy Mentor (PAM) Talks, University of Calgary (Jan 2022 -- Present)
   * <a href="https://thepamtalks.podbean.com/" rel="noopener" target="_blank">Pam Talks PodBean link</a>
 * PHAS EDI committee member (Oct 2021 -- June 2024)
