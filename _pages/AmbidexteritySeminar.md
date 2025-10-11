@@ -20,8 +20,8 @@ The (current) reading plan for the seminar can be found <a href="/files/FirstDra
  * Week 2 (9/15). Ea E T: <a href="/files/Introduction to Semiadditivity.pdf" class="image fit">Introduction to Semiadditivity</a>
  * Week 3 (9/22). Ea E T: <a href="/files/Cardinalities and Semiadditive Height.pdf" class="image fit">Cardinalities and Semiadditive Height</a>
  * Week 4 (9/29). Fredrick Mooers: Parameterized Infinity Categories
- * Week 5 (10/6). TBD
- * Week 6 (10/13). TBD
+ * Week 5 (10/6). Fredrick Mooers: <a href="/files/Parametrized Higher Category Theory Notes (1).pdf" class="image fit">Parameterized Higher Semiadditivity</a>
+ * Week 6 (10/13). Fredrick Mooers: Twisted Ambidexterity
  * Week 7 (10/20). TBD
  * Week 8 (10/27). TBD
  * Week 9 (11/3). TBD
