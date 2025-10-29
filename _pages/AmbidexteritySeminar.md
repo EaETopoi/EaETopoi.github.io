@@ -22,9 +22,9 @@ The (current) reading plan for the seminar can be found <a href="/files/FirstDra
  * Week 4 (9/29). Fredrick Mooers: Parameterized Infinity Categories
  * Week 5 (10/6). Fredrick Mooers: <a href="/files/Parametrized Higher Category Theory Notes (1).pdf" class="image fit">Parameterized Higher Semiadditivity</a>
  * Week 6 (10/13). Fredrick Mooers: Twisted Ambidexterity
- * Week 7 (10/20). TBD
- * Week 8 (10/27). TBD
- * Week 9 (11/3). TBD
+ * Week 7 (10/20). No Talk
+ * Week 8 (10/27). Yigal Kamel: Equivariance in Twisted Ambidexterity
+ * Week 9 (11/3). Yigal Kamel: Equivariance in Twisted Ambidexterity
  * Week 10 (11/10). TBD
  * Week 11 (11/17). TBD
  * Week 12 (11/24). Fall Break
