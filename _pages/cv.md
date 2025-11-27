@@ -15,6 +15,7 @@ Education
 ======
 * **University of Illinois Urbana-Champaign**, Urbana, IL, USA
   * Ph.D in Mathematics, University of Illinois Urbana-Champaign, 2029 (expected)
+  * MS in Teaching of Mathematics, University of Illinois Urbana-Champaign, 2027 (expected)
 * **University of Calgary**, Calgary, AB, Canada
   * BSc in Mathematics, first-class honours with distinction, June 2024
     * Thesis: "<a href="/files/Math518_FinalReport_EEaT.pdf" class="image fit">A Concrete Construction of Polynomial Functors in Chain Complexes</a>" advised by <a href="https://contacts.ucalgary.ca/info/math/profiles/101-152919" rel="noopener" target="_blank">Kristine Bauer</a>
